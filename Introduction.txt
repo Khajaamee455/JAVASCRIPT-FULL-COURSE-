@@ -1,0 +1,26 @@
+(((((((((((JAVASCRITP FULL COURSE)))))))))))
+
+In this course i will teach you every thing , each concept of JAVASCRITP
+
+JAVASCRITP is high level , dynamic , and interpreted language that is one of the core technology of world wide web.
+
+Its primarily used to create a dynamic content on web pages
+
+Some important features of JAVASCRITP 
+
+
+1) Client side scripting
+
+2) Server side scripting 
+
+3) Event driven 
+
+4)Asynchronus programming
+
+5) object oriented programming
+
+6) Librery and frameworks 
+
+7) browser compatability
+
+8)ECMAScript
