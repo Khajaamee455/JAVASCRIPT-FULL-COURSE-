@@ -8,3 +8,17 @@ else if(age > 21 ){
 else {
     console.log("u are not eligible for voiting")
 }
+
+// Example 2 
+
+const isMailSent = true ;
+
+if (isMailSent ){
+    console.log("mail is sent....");
+}
+
+else{
+    console.log("some error occured while sending the mail ...")
+}
+
+
